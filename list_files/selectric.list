@@ -456,7 +456,7 @@ NY I-87 I-278 USA/CAN
 
 # Washington
 WA AirExpy WA518 Ter
-WA I-5 104 202
+WA I-5 104 275
 WA I-90 WA519 WA/ID
 WA I-405 I-5(154) I-5(182)
 WA US2 I-5 WA522
@@ -514,6 +514,7 @@ WA US97 I-82(34) I-90(110)
 WA US2 WA522 WA203
 WA WA203 WA202 US2
 WA WA202 WA522 I-90
+WA WA543 I-5 WA/BC
 
 
 
@@ -623,6 +624,13 @@ WA I-90 3 WA/ID
 
 
 # I N T E R N A T I O N A L
+
+## British Columbia (by Amtrak bus)
+BC BC15 USA/CAN 8Ave
+BC BC99 2 37
+BC BC91 22 23
+BC KniSt WesHwy MarDr
+
 
 ## Norway (and Sweden) July 2009
 NOR E18 E39 42
