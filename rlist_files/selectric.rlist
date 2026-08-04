@@ -1,4 +1,4 @@
-#### N O R T H   A M  E R I C A
+#### N O R T H   A M E R I C A
 
 ### Amtrak
 
@@ -362,6 +362,43 @@ ENG DLR Bank CutSark
 ENG DLRWoo Bank CanTown
 
 
+### Eurostar
+ENG LonPar LonStPanInt FRA-IDF LonPar ParGareNord
+ENG LonAms LonStPanInt BEL LonAms BruMidi
+
+
+### Germany (with bordering routes)
+
+## IC/ICE
+BEL ICE79 BruMidi DEU-HE ICE79 FraFurtHbf
+
+FRA-IDF ICE83 ParGareEst DEU-BW ICE83 KarRuheHbf
+DEU-BE ICE13 Spa DEU-BW ICE13 KarRuheHbf
+
+DEU-BE ICE12 BerHbf DEU-HE ICE12 +DIV_FraHbf1
+DEU-HE ICE12 FraFurtHbf DEU-HE ICE12 +DIV_FraHbf2
+
+## Frankfurt
+DEU-HE S8 FraFurtFlugHafRegBf DEU-HE S8 FraFurtHbf
+
+
+## Berlin
+
+# S-Bahn
+DEU-BE S9 Spa WarStr
+DEU-BE S3 Spa OstKre
+DEU-BE S42 HerStr OstKre_S
+
+# U-Bahn
+DEU-BE U8 GesBru HerStr
+DEU-BE U5 Hbf FraFurTor
+DEU-BE U3 KurFurStr WarStr
+DEU-BE U2 ZooGar RosaLuxPla
+
+# Trams
+DEU-BE M10 SUHbf SUWarStr
+DEU-BE M4 SHacMar AntPla
+DEU-BE M13 AntPla SWarStr
 
 #### A S I A
 
